@@ -7,6 +7,7 @@ Parse serve push notification in Azure Cloud
 - In portal azure Your Application > DEVELOPMENT TOOLS > App Service Editor
 - Deploy code in you path wwwroot
 - Configure config.js
+
 `{ server: 
    { appId: 'YourAPI',
      masterKey: 'Youmasterkey',
